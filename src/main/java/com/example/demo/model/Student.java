@@ -9,7 +9,7 @@ public class Student {
     @Id
     String id;
 
-    String ageVariableNoConflict;
+    String ageVariableConflictAtUpstream;
 
     String name;
 
