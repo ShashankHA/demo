@@ -9,6 +9,8 @@ public class Student {
     @Id
     String id;
 
+    String age;
+
     String name;
 
 
